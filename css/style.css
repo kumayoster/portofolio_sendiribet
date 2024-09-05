@@ -42,16 +42,9 @@ header {
 .social-icons a {
   font-size: 1.7em;
   padding-right: 30px;
-  color: #fff;
+  color: #fffe;
 }
 
-.fb:hover {
-  color: #0041f5;
-}
-
-.tw:hover {
-  color: #2495b1;
-}
 
 .ig:hover {
   color: #db2d7b;
@@ -257,7 +250,7 @@ section {
 }
 
 .footer {
-  background-color: #f0f0f0;
+  background-color: #333;
   text-align: center;
   padding: 20px 0;
 }
@@ -268,7 +261,7 @@ section {
 }
 
 .footer-title span {
-  color: #000; /* Logo color set to black */
+  color: #121212; /* Logo color set to black */
 }
 
 .footer .social-icons {
